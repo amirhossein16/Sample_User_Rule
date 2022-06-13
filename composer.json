@@ -1,0 +1,15 @@
+{
+    "name": "admin/hw-2",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Hw2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AmirhosseinSamaee",
+            "email": "amirhosseinir1688@gmail.com"
+        }
+    ],
+    "require": {}
+}
